@@ -13,6 +13,7 @@ sigue las instrucciones que contiene para ofrecer un servicio o mostrar informac
 Puerto:
 Es un número que usa una aplicación para recibir y enviar información. Ayuda a que el
 computador sepa a qué programa debe entregar cada conexión.
+
 Logs:
 Son mensajes o registros que muestran lo que ocurre en un programa. Sirven para saber si
 todo funciona bien o para encontrar errores cuando algo falla.
